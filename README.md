@@ -18,5 +18,6 @@ AI의 유일한 형태라고 믿습니다.
 | **[permit-delay-risk-chicago](https://github.com/jinhyunan/permit-delay-risk-chicago)** 🏗️ | Flagship. 시카고 건축허가 22.7만 건으로 "착공 전 readiness 마찰"을 예측 — DuckDB 적재 → 누수차단 피처(테스트로 강제) → LightGBM + SHAP → 결정론적 도구 기반 진단 에이전트 → 리스크 카드. 시간분할 검증과 정직한 부정적 결과 보고 포함 |
 | **[ccpptools-mcp](https://github.com/jinhyunan/ccpptools-mcp)** ⚙️ | 복합화력발전소 배관/펌프 계산을 검증 가능한 Python + MCP 도구로 재구성. Excel cell-replay 테스트로 원 계산서와 결과를 고정 (ASME · Crane TP-410) |
 | **[watt-agent](https://github.com/jinhyunan/watt-agent)** 🤖 | 외부 패키지 설치가 불가능한 폐쇄망을 위한 stdlib-only LLM 에이전트 런타임 — tool-calling 루프, 서브에이전트, 컨텍스트 압축, 문서생성 파이프라인 |
+| **[lane-departure-warning-rebuild](https://github.com/jinhyunan/lane-departure-warning-rebuild)** 🛣️ | 2013 학부논문 차선이탈경보 알고리즘을 PDF 부록 코드에서 복원하고 근거 기반으로 현대화 — golden-frame 평가, 제어상태 분리, 게이트 뒤의 ML. [4패널 비교 프레젠테이션](https://jinhyun-an.dev/ldw/) |
 
-**Portfolio site**: [cc983729js.xyz](https://cc983729js.xyz) · **Contact**: jinhyun.an.ai@gmail.com
+**Portfolio site**: [jinhyun-an.dev](https://jinhyun-an.dev) · **Contact**: jinhyun.an.ai@gmail.com
